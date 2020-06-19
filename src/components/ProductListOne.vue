@@ -41,7 +41,7 @@ export default {
         ...mapActions([
             'reducePrice' 
         ])
-    }
+    },
 };
 </script>
 
